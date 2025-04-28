@@ -5,5 +5,5 @@
 }
 
 .linkDestacado{
-    border-bottom: 0.1rem solid black;
+    text-decoration: underline;
 }

@@ -31,7 +31,7 @@ export default function Post() {
                                     <ReactMarkdown>{post.texto}</ReactMarkdown>
                                 </div>
                         </PostModelo>
-                        <Recomendacao paginaId={parametros.id}/>
+                        <Recomendacao paginaId={parametros.id} className="recomendacoes"/>
 
                     </section>
             }/>

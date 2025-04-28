@@ -3,6 +3,13 @@
     position: relative;
 }
 
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    width: 80%;
+}
+
 .fotoCapa,
 .titulo {
     height: 204px;
